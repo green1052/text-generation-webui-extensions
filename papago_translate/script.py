@@ -11,11 +11,10 @@ key = "aVwDprJBYvnz1NBs8W7GBuaHQDeoynolGF5IdsxyYP6lyCzxAOG38hleJo43NnB6"
 
 params = {
     "activate": True,
-    "language string": "ja",
+    "language string": "ko",
 }
 
 language_codes = {
-    # Auto': 'auto',
     'Korean': 'ko',
     'English': 'en',
     'Japanese': 'ja',
